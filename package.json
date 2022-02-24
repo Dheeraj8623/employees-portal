@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+<<<<<<< HEAD
     "bcrypt": "^5.0.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
@@ -18,5 +19,11 @@
     "pg": "^8.7.3",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.16.2"
+=======
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
+>>>>>>> 896d7a3e86d38216a4a770a35e3e94ee1e2c0d3c
   }
 }
